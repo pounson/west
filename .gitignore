@@ -1,0 +1,10 @@
+tmp/
+js/
+css/
+img/
+index.html
+index.html_old
+*_old
+*_backup
+Thumbs.db
+.DS-Store
